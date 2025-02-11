@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <h1 className="text-black">
+    <h1 className="bg-black text-white">
       <Navbar />
       <Hero />
       <HighLights />
